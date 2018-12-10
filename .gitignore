@@ -1,6 +1,7 @@
 .DS_Store
 .idea
 .vscode
+.eslintcache
 lib
 node_modules
 npm-debug.log*
