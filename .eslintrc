@@ -1,0 +1,23 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+    "mocha": true
+  },
+  "globals": {},
+  "plugins": ["prettier"],
+  "extends": ["eslint:recommended", "prettier"],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "ecmaVersion": 2017,
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "experimentalObjectRestSpread": true,
+      "modules": true
+    }
+  },
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "target": "esnext",
+    "strict": true,
+    "pretty": true,
+    "declaration": true,
+    "declarationDir": "lib",
+    "allowSyntheticDefaultImports": true,
+    "strictPropertyInitialization": true,
+    "strictNullChecks": true,
+    "lib": ["dom", "es2015", "es2016", "es2017", "esnext"]
+  },
+  "include": ["src/*"],
+  "exclude": ["node_modules", "**/*.spec.ts", "lib", "test"]
+}
