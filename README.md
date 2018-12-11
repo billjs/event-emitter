@@ -2,6 +2,14 @@
 
 A simple and lightweight EventEmitter by TypeScript for Node.js or Browsers.
 
+## Installation
+
+Installation is done using the `npm install` command:
+
+```shell
+npm install -S @billjs/event-emitter
+```
+
 ## Overview
 
 - [EventEmitter](#eventemitter)
