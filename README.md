@@ -1,4 +1,4 @@
-# event-emitter
+# event-emitter [![Travis-ci Status](https://api.travis-ci.org/billjs/event-emitter.svg?branch=master)](https://travis-ci.org/billjs/event-emitter) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/billjs/event-emitter/blob/master/LICENSE) ![javascript | node.js](https://img.shields.io/badge/language-javascript%20%7C%20node.js-yellow.svg) [![Npm Version](https://img.shields.io/npm/v/@billjs/event-emitter.svg)](https://www.npmjs.com/package/@billjs/event-emitter)
 
 A simple and lightweight EventEmitter by TypeScript for Node.js or Browsers.
 
