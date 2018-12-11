@@ -3,7 +3,7 @@
     "outDir": "lib",
     "module": "esnext",
     "moduleResolution": "node",
-    "target": "esnext",
+    "target": "es5",
     "strict": true,
     "pretty": true,
     "declaration": true,
