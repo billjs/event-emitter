@@ -1,5 +1,5 @@
 /**
- * A simpler and lighter EventEmitter by TypeScript for Node.js or Browsers.
+ * A simple and lightweight EventEmitter by TypeScript for Node.js or Browsers.
  *
  * @author billjs
  * @see https://github.com/billjs/event-emitter

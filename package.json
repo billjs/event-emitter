@@ -1,7 +1,7 @@
 {
   "name": "event-emitter",
   "version": "1.0.0",
-  "description": "A simpler and lighter EventEmitter by TypeScript for Node.js or Browsers.",
+  "description": "A simple and lightweight EventEmitter by TypeScript for Node.js or Browsers.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -23,8 +23,8 @@
   },
   "keywords": [
     "EventEmitter",
-    "simpler",
-    "lighter",
+    "simple",
+    "lightweight",
     "TypeScript",
     "Node.js",
     "Browsers"
