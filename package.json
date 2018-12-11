@@ -1,6 +1,6 @@
 {
   "name": "@billjs/event-emitter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and lightweight EventEmitter by TypeScript for Node.js or Browsers.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
